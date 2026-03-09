@@ -1,14 +1,20 @@
+import produtos from "../data/produtos.json"
+import Card from "../components/Card"
 function Produtos() {
     return (
-        <>
+        <div className="container">
             <h1>Produtos</h1>
-            <p>Nossos Produtos são de qualidade e com baixos preços</p>
-            <ul>
-                <li>Tampa-Buraco</li>
-                <li>Tira-Lixo</li>
-                <li>Renova-Calçada</li>
-            </ul>
-        </>
+            <div className="grid">
+                {produtos.map(produto => (
+                    <Card
+                        key={produto.id}
+                        titulo={produto.nome}
+                        texto={produto.descricao}
+                        imagem={produto.imagem}
+                    />
+                ))}
+            </div>
+        </div>
     )
 }
 export default Produtos

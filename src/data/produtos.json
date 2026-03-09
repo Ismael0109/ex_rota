@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "nome": "Nanotubos de Carbono",
+        "imagem": "https://images.unsplash.com/photo-1530210124550-912dc1381cb8?q=80&w=400",
+        "descricao": "Estruturas cilíndricas de carbono com resistência mecânica excepcional."
+    },
+    {
+        "id": 2,
+        "nome": "Pontos Quânticos (Quantum Dots)",
+        "imagem": "https://images.unsplash.com/photo-1550831107-1553da8c8464?q=80&w=400",
+        "descricao": "Nanocristais semicondutores que emitem cores vibrantes sob luz UV."
+    },
+    {
+        "id": 3,
+        "nome": "Rede de Grafeno",
+        "imagem": "https://images.unsplash.com/photo-1614850523296-d8c1af93d400?q=80&w=400",
+        "descricao": "Uma única camada de átomos de carbono organizada em um padrão hexagonal."
+    },
+    {
+        "id": 4,
+        "nome": "Nanopartículas de Ouro",
+        "imagem": "https://images.unsplash.com/photo-1581093450021-4a7360e9a6b5?q=80&w=400",
+        "descricao": "Suspensão coloidal utilizada em testes de diagnóstico e terapias médicas."
+    },
+    {
+        "id": 5,
+        "nome": "Chip Microfluídico",
+        "imagem": "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=400",
+        "descricao": "Laboratórios em um chip para processamento de fluidos em microescala."
+    },
+    {
+        "id": 6,
+        "nome": "Ferrofluido em Campo Magnético",
+        "imagem": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?q=80&w=400",
+        "descricao": "Líquido que se torna altamente magnetizado na presença de um campo magnético."
+    },
+    {
+        "id": 7,
+        "nome": "Nanofibras Poliméricas",
+        "imagem": "https://images.unsplash.com/photo-1576086213369-97a306d36557?q=80&w=400",
+        "descricao": "Fibras de diâmetro nanométrico para filtragem avançada e engenharia de tecidos."
+    },
+    {
+        "id": 8,
+        "nome": "Nano-revestimento de Vidro",
+        "imagem": "https://images.unsplash.com/photo-1535813547-99c456a41d4a?q=80&w=400",
+        "descricao": "Película invisível repelente de água (hidrofóbica) aplicada em superfícies."
+    },
+    {
+        "id": 9,
+        "nome": "Semicondutores Atômicos",
+        "imagem": "https://images.unsplash.com/photo-1555664424-778a1e5e1b48?q=80&w=400",
+        "descricao": "Processadores fabricados com precisão nanométrica para máxima eficiência."
+    },
+    {
+        "id": 10,
+        "nome": "Nanobots Médicos (Conceito)",
+        "imagem": "https://images.unsplash.com/photo-1532187863486-abf9d39d99c5?q=80&w=400",
+        "descricao": "Sistemas nanoeletrônicos projetados para atuar dentro da corrente sanguínea."
+    },
+    {
+        "id": 11,
+        "nome": "Cristal de Nanocelulose",
+        "imagem": "https://images.unsplash.com/photo-1562771242-a02d9090c90c?q=80&w=400",
+        "descricao": "Material sustentável extraído de fibras vegetais com alta rigidez."
+    },
+    {
+        "id": 12,
+        "nome": "Lente de Metamaterial",
+        "imagem": "https://images.unsplash.com/photo-1509063919429-172973859d8c?q=80&w=400",
+        "descricao": "Superfícies ópticas que manipulam a luz de formas impossíveis na natureza."
+    }
+]

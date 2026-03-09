@@ -18,7 +18,6 @@ function App() {
         <Route path="/Produtos" element={<Produtos />} />
         <Route path="/Contato" element={<Contato />} />
       </Routes>
-      <Footer/>
       </BrowserRouter>
     </>
   )
